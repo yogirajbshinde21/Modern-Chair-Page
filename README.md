@@ -1,11 +1,19 @@
-### Preview :
-![Screenshot 2024-06-21 163801](https://github.com/yogirajbshinde21/Modern-Chair-Page/assets/84953719/ce11c507-96f7-4343-a3a3-42c208e58470)
 
----
 ---
 # Modern Chair Showcase Website
 
 This project is a showcase website for modern chairs, emphasizing a sleek and minimalist aesthetic. It allows users to interactively select different chair colors, with corresponding changes in both chair and background images.
+
+---
+### Preview :
+
+![Screenshot 2024-06-21 163801](https://github.com/yogirajbshinde21/Modern-Chair-Page/assets/84953719/ce11c507-96f7-4343-a3a3-42c208e58470)
+
+
+---
+### Demo Video
+
+![Modern Chair Project Demo_githubgif](https://github.com/yogirajbshinde21/Modern-Chair-Page/assets/84953719/7dbe2fd5-783c-4197-b2bc-2751fc6bf085)
 
 ---
 ## Features
@@ -19,11 +27,6 @@ This project is a showcase website for modern chairs, emphasizing a sleek and mi
 
 - HTML
 - CSS
-
----
-### Demo Video
-
-![Modern Chair Project Demo_githubgif](https://github.com/yogirajbshinde21/Modern-Chair-Page/assets/84953719/7dbe2fd5-783c-4197-b2bc-2751fc6bf085)
 
 ---
 ## Usage
